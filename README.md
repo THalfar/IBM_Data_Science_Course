@@ -1,2 +1,3 @@
-# IBM_Data_Science_Course
-IBM Data Science Professional Certificate
+# IBM Data Science Course from Coursera 
+This is a repo for this course exercises 
+
